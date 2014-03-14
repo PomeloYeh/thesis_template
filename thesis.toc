@@ -1,0 +1,18 @@
+\contentsline {chapter}{致謝}{3}
+\contentsline {chapter}{中文摘要}{4}
+\contentsline {chapter}{Abstract}{5}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {chapter}{\numberline {2}Related Work}{3}
+\contentsline {section}{\numberline {2.1}Contextual Recommendation Systems}{3}
+\contentsline {section}{\numberline {2.2}Factorization Machines}{3}
+\contentsline {chapter}{\numberline {3}Methodology}{5}
+\contentsline {section}{\numberline {3.1}Standard Factorization Machine}{5}
+\contentsline {section}{\numberline {3.2}Grouping Factorization Machine}{5}
+\contentsline {chapter}{\numberline {4}Experimental Results}{7}
+\contentsline {section}{\numberline {4.1}Experimental Settings}{7}
+\contentsline {subsection}{\numberline {4.1.1}Dataset}{7}
+\contentsline {subsection}{\numberline {4.1.2}Evaluation Metrics}{7}
+\contentsline {section}{\numberline {4.2}Contextual Recommendation System}{7}
+\contentsline {subsection}{\numberline {4.2.1}CF-based Recommendations}{7}
+\contentsline {chapter}{\numberline {5}Conclusions}{9}
+\contentsline {chapter}{Bibliography}{11}
